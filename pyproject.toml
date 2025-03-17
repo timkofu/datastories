@@ -14,8 +14,10 @@ dependencies = [
     "scipy (>=1.15.2,<2.0.0)",
     "pandas (>=2.2.3,<3.0.0)",
     "jupyterlab (>=4.3.6,<5.0.0)",
+    "jupyterlab-lsp (>=5.1.0,<6.0.0)",
     "seaborn[stats] (>=0.13.2,<0.14.0)",
     "networkx[default,extra] (>=3.4.2,<4.0.0)",
+    "jedi-language-server (>=0.43.1,<0.44.0)",
 ]
 
 

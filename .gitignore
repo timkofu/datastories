@@ -1,3 +1,5 @@
 .venv
 poetry.lock
 .ipynb_checkpoints
+notebook/.data
+.virtual_documents
