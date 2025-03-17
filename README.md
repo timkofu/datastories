@@ -1,4 +1,4 @@
 # Datastories
 
-| Story | Description | Link |
-| ----- | ----------- | ---- |
+| Name | Description | Link |
+| ---- | ----------- | ---- |

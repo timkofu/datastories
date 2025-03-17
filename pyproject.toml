@@ -3,7 +3,7 @@ name = "datastories"
 version = "0.1"
 description = "Data stories."
 authors = [{ name = "Timothy Makobu" }]
-license = { text = "GPL-V3" }
+license = { text = "GPL-3.0" }
 readme = "README.md"
 package-mode = false
 
@@ -13,8 +13,9 @@ dependencies = [
     "numpy (>=2.2.3,<3.0.0)",
     "scipy (>=1.15.2,<2.0.0)",
     "pandas (>=2.2.3,<3.0.0)",
-    "matplotlib (>=3.10.1,<4.0.0)",
     "jupyterlab (>=4.3.6,<5.0.0)",
+    "seaborn[stats] (>=0.13.2,<0.14.0)",
+    "networkx[default,extra] (>=3.4.2,<4.0.0)",
 ]
 
 
