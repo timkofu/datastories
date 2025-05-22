@@ -1,5 +1,1 @@
 # Datastories
-
-| Name | Description | Link |
-| ---- | ----------- | ---- |
-
